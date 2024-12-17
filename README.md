@@ -1,5 +1,5 @@
 # Netflix-Clone
-In this project, a great website was created using html and css. 
+In this project, a great netflix clone website was created using html and css. 
 Aesthetic Design: An eye-catching header and user-friendly interface.
 Responsive design.
 
